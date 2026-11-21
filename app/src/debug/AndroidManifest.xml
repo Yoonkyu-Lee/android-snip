@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <!-- Debug-only Phase 1 tool: puts a unique test PNG on the clipboard.
+             Usage: see ClipTestActivity.kt -->
+        <activity
+            android:name=".ClipTestActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PatternActivity"
+            android:theme="@android:style/Theme.DeviceDefault.NoActionBar"
+            android:configChanges="orientation|screenSize|screenLayout"
+            android:exported="true" />
+    </application>
+</manifest>

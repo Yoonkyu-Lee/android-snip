@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_desc">화면 캡처 진입점(One Hand Operation+, 빠른 설정 타일, 앱 아이콘)을 누를 때만 화면을 캡처하여 선택한 영역을 클립보드에 복사합니다. 화면 내용을 읽거나 저장하지 않으며 네트워크를 사용하지 않습니다.</string>
+    <string name="shortcut_capture">영역 캡처</string>
+</resources>
